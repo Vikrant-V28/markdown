@@ -15,7 +15,7 @@ Dmitry Shachnev (https://github.com/mitya57) and Isaac Muse (https://github.com/
 
 Copyright 2007-2018 The Python Markdown Project (v. 1.7 and later)
 Copyright 2004, 2005, 2006 Yuri Takhteyev (v. 0.2-1.6b)
-Copyright 2004 Manfred Stienstra (the original version)
+Copyright 2004 Manfred Stienstra (The original version)
 
 License: BSD (see LICENSE.md for details).
 """
